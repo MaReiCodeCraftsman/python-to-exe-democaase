@@ -1,12 +1,8 @@
-# python-to-exe-democaase
+# python-to-exe Use Case description
 A simple use case detailing how to easily convert your Python file to an executable file
-
-# Python Application Repository
 
 This repository contains a simple Python application that prompts the user to enter their name and greets them with a message.
 Besides the choosen popular approach of using PyInstaller, it is also worth checking the two other options Nuitka and Py2exe or get familiar with other options.
-
-## Getting Started
 
 ## Getting Started
 
