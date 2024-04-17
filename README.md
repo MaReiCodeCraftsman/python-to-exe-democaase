@@ -10,7 +10,7 @@ To get started with this Python application, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/MaReiCodeCraftsman/python-to-exe-democaase.git
+git clone https://github.com/MaReiCodeCraftsman/python-to-exe-democase.git
 ```   
 2. **Navigate to the Directory**: Change your current directory to the cloned repository:
 ```
