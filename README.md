@@ -34,7 +34,7 @@ Replace `your_script.py` with the name of your Python script. The `--onefile` op
 
 
 
-## Additional Options
+## Additional options to convert your py-files to exe-files
 
 Besides PyInstaller, you can explore other options for converting Python scripts into standalone executables:
 
@@ -44,6 +44,11 @@ Besides PyInstaller, you can explore other options for converting Python scripts
 
 
 Feel free to explore these options based on your specific requirements and preferences.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 ![Image Alt Text](python_to_exe.png)
