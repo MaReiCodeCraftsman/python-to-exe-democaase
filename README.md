@@ -14,7 +14,7 @@ git clone https://github.com/MaReiCodeCraftsman/python-to-exe-democase.git
 ```   
 2. **Navigate to the Directory**: Change your current directory to the cloned repository:
 ```
-cd python-to-exe-democaase
+cd python-to-exe-democase
 ```
 3. **Run the Application**: Execute the main Python script of the application to run it:
 ```
