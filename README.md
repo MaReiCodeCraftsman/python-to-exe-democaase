@@ -46,7 +46,7 @@ Besides PyInstaller, you can explore other options for converting Python scripts
 Feel free to explore these options based on your specific requirements and preferences.
 
 
-![Image Alt Text](example_viz.png)
+![Image Alt Text](python_to_exe.png)
 
 
 
